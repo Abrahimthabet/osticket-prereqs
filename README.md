@@ -18,11 +18,13 @@
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1- Azure Virtual Machine
+
+2- Windows IIS and Dependencies
+
+3- PHP Environment:
+
+4- MySQL Database:
 
 <h2>Installation Steps</h2>
 
