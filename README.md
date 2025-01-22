@@ -22,9 +22,10 @@
 
 2- Windows IIS and Dependencies
 
-3- PHP Environment:
+3- PHP Environment
 
-4- MySQL Database:
+4- MySQL Database
 
 <h2>Installation Steps</h2>
+
 
